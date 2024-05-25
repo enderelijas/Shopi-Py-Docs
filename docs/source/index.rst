@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Welcome to Shopipy documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Shopi-Py is a simple utility package for building all sorts of shops with discord.py API wrapper.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Features:
+   - Intuitive design
+   - Easily extendable and customizable
+   - Simple navigation handling between multiple shop pages
+
+Getting started
+---------------
+- **First steps: Introduction | Quickstart**
+- **Examples: examples available in the** `repository <https://github.com/enderelijas/Shopi-Py/>`_
 
 .. note::
 
    This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
