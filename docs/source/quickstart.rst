@@ -1,7 +1,7 @@
 Quickstart
 ==========
 
-This page gives a brief introduction to the library and its simplest form of usage. Everything on this page assumes you have the library installed, if you don't please follow the steps in the :doc:`Installing` portion.
+This page gives a brief introduction to the package and its simplest form of usage. Everything on this page assumes you have the package installed, if you don't please follow the steps in the :doc:`installing` portion.
 
 *******************************
 1. Import the required packages
