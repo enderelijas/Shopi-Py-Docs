@@ -10,7 +10,7 @@ Features:
 
 Getting started
 ---------------
-- **First steps: :doc:`Introduction` | :doc:`Quickstart`**
+- **First steps: :doc:`Introduction` | :doc:`quickstart`**
 - **Examples: examples available in the** `repository <https://github.com/enderelijas/Shopi-Py/>`_
 
 .. note::
