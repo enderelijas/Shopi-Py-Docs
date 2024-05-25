@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Shopi-Py'
+copyright = '2024, enderelijas'
+author = 'enderelijas'
 
 release = '0.1'
 version = '0.1.0'
