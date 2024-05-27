@@ -13,6 +13,12 @@ Getting started
 - **First steps**: :doc:`introduction` | :doc:`quickstart`
 - **Examples**: examples available in the `repository <https://github.com/enderelijas/Shopi-Py/>`_
 
+
+Manuals
+=======
+These pages go into detail about everything the package can do.
+- :doc:`api`
+
 .. note::
 
    This project is under active development.
