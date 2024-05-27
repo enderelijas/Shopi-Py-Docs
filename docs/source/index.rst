@@ -25,7 +25,7 @@ These pages go into detail about everything the package can do.
    This project is under active development.
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :caption: Table of Contents:
 
     index
