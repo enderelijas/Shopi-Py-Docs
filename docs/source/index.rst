@@ -11,7 +11,7 @@ Features:
 Getting started
 ---------------
 - **First steps**: :doc:`introduction` | :doc:`quickstart`
-- **Examples**: examples available in the** `repository <https://github.com/enderelijas/Shopi-Py/>`_
+- **Examples**: examples available in the `repository <https://github.com/enderelijas/Shopi-Py/>`_
 
 .. note::
 
