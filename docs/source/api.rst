@@ -14,7 +14,6 @@ Selectors
 ---------
 
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+.. toctree::
+    :maxdepth: 3
+    :caption: Table of Contents:
