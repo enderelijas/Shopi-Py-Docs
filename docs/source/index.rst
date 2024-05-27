@@ -10,8 +10,8 @@ Features:
 
 Getting started
 ---------------
-- First steps: :doc:`introduction` | :doc:`quickstart`
-- **Examples: examples available in the** `repository <https://github.com/enderelijas/Shopi-Py/>`_
+- **First steps**: :doc:`introduction` | :doc:`quickstart`
+- **Examples**: examples available in the** `repository <https://github.com/enderelijas/Shopi-Py/>`_
 
 .. note::
 
@@ -19,6 +19,6 @@ Getting started
 
 .. toctree::
     :maxdepth: 1
-    :caption: Contents:
+    :caption: Table of Contents:
 
     quickstart
