@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
-=======================================
+Official Shopi-Py documentation
+===============================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+The official GitHub repository for the documentation of the `Shopi-Py <https://github.com/enderelijas/Shopi-Py>`_ python package.
 
-Read the tutorial here:
+Read the documentation here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://shopi-py-docs.readthedocs.io/en/latest/
