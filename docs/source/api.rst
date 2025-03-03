@@ -45,10 +45,19 @@ Represents a shop page within the `Shop`_. This class is used to configure the i
    - shop (`Shop`_)
    - title (str)
    - description (str)
+   - items (Union(List[`ShopItem <#shop-item>`_], List[`ShopCategory <#shop-category>`_])
+   - footer (Optional[str])
+   - on_select (Optional[Callable[[`discord.Interaction <https://discordpy.readthedocs.io/en/stable/interactions/api.html?highlight=discord%20interaction#discord.Interaction>`_.], None]]
+   - timeout (Optional[float])
+
+Shop Item
+---------
+
+Shop Category
+-------------
 
 Selectors
 ---------
-
 
 .. toctree::
     :maxdepth: 3
